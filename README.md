@@ -15,5 +15,7 @@ The system follows a pipeline-based architecture for visual menu understanding a
 6. A rule-based recommendation engine selects the most suitable dish based on user preferences.
 7. The final structured output is displayed in the UI and exported as JSON.
 ### Tools and APIs used
+![Tools and Apis](Tools apis.png.png).
+
 
 
