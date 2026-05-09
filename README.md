@@ -20,3 +20,4 @@ The system follows a pipeline-based architecture for visual menu understanding a
 ### Demo video 
 https://github.com/Sucharita023/Web-Projects/blob/main/VID-20260110-WA0001.mp4
 
+End
